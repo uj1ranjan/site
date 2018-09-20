@@ -1,0 +1,47 @@
+body{
+    font-family: cursive;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+
+h1{
+     color:rgba(14, 250, 171, 0.66);
+    font-size:40px;
+    font-family: Arial;
+    }
+
+h2{
+    color:chartreuse;
+    font-size:25px;
+    font-family: cursive;
+}
+p {
+    font-size:20px;
+    text-align: justify;
+    font-family: cursive;
+}
+
+.level1 {
+    
+    width: 1000;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.level2 {
+    background-color:#ff0000;
+    width: 75%;
+    float: left;
+    padding-right: 30px;
+}
+
+
+.clg information {
+    background-color: cyan;
+    border-top: 1px solid;
+    margin-top: 10px;
+}
